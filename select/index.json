@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "さよならの今日に (Live in 阪神甲子園球場, 2022.11.05)",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-02-26T07:41:38.296710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならの今日に",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_さよならの今日に_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならの今日に",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/02_さよならの今日に_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならの今日に (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/03_さよならの今日に_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよならの今日に (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/04_さよならの今日に_(Live_in_阪神甲子園球場,_2022.11.05)_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよならの今日に - On This Day We Say Goodbye",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/05_さよならの今日に_-_On_This_Day_We_Say_Goodbye_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならの今日に",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_さよならの今日に_あいみょん.txt"
+    }
+  ]
+}
